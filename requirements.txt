@@ -1,0 +1,10 @@
+opencv-python-headless
+ultralytics
+torch
+torchvision
+transformers
+accelerate
+chromadb
+sentence-transformers
+streamlit
+pydantic

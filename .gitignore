@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+database/events.db
+database/chroma_store/
+data/keyframes/
+*.pt
+.env
